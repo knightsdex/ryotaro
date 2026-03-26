@@ -25,9 +25,9 @@ import {
 import { LayoutGroup, motion, MotionConfigContext } from "framer-motion";
 import * as React from "react";
 import { useRef } from "react";
-import InstagramLogo from "../framerusercontent.com/modules/PtxaBiSAA5V6LvrpAt6G/EsR1AqByikNQR8Cp2V8c/UD0eTfbk_.js";
-import TiktokLogo from "../framerusercontent.com/modules/TNOWoCWEr5Q4rZJjW1Ys/7a6Npqy12wRch0Aakncs/X4yTai4nL.js";
-import { InfoFromSheets } from "../framerusercontent.com/modules/TxV3LxvbizC57ySocZwA/CbAsXOGYoVnzhu21OwMk/AutomaticUpdate.js";
+import InstagramLogo from "./framerusercontent.com/modules/PtxaBiSAA5V6LvrpAt6G/EsR1AqByikNQR8Cp2V8c/UD0eTfbk_.js";
+import TiktokLogo from "./framerusercontent.com/modules/TNOWoCWEr5Q4rZJjW1Ys/7a6Npqy12wRch0Aakncs/X4yTai4nL.js";
+import { InfoFromSheets } from "./framerusercontent.com/modules/TxV3LxvbizC57ySocZwA/CbAsXOGYoVnzhu21OwMk/AutomaticUpdate.js";
 import PFPMaker from "#framer/local/codeFile/IwriVHs/Pfpmaker.js";
 import metadataProvider from "#framer/local/webPageMetadata/YdUhi_rgk/YdUhi_rgk.js";
 const InfoFromSheetsFonts = getFonts(InfoFromSheets);
@@ -225,9 +225,9 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                                 pixelHeight: 648,
                                 pixelWidth: 774,
                                 sizes: "33px",
-                                src: "../framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?width=774&height=648",
+                                src: "./framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?width=774&height=648",
                                 srcSet:
-                                  "../framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?scale-down-to=512&width=774&height=648 512w,../framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?width=774&height=648 774w",
+                                  "./framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?scale-down-to=512&width=774&height=648 512w,./framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?width=774&height=648 774w",
                               },
                             },
                           },
@@ -240,9 +240,9 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                               pixelHeight: 648,
                               pixelWidth: 774,
                               sizes: "33px",
-                              src: "../framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?width=774&height=648",
+                              src: "./framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?width=774&height=648",
                               srcSet:
-                                "../framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?scale-down-to=512&width=774&height=648 512w,../framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?width=774&height=648 774w",
+                                "./framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?scale-down-to=512&width=774&height=648 512w,./framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?width=774&height=648 774w",
                             },
                             className: "framer-3lqa9",
                             "data-framer-name": "Cashew-Main-1L",
@@ -571,30 +571,30 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                       children: /*#__PURE__*/ _jsx(PFPMaker, {
                         accent: "rgb(193, 138, 58)",
                         assets: [
-                          "../framerusercontent.com/assets/FF7F2BOlUMJ1CIA5s8fAfUg3Igg.png",
-                          "../framerusercontent.com/assets/DW0CFaEmhf1i8Dd6mWDbKknmec.png",
-                          "../framerusercontent.com/assets/GgBpw3GjRfnz9NRiheKjkatZ8.png",
-                          "../framerusercontent.com/assets/fPokciFKebngpVtpj8qqq4xKPg.png",
-                          "../framerusercontent.com/assets/FTvxbfsvcHSu2g40m42oMctpo2M.png",
-                          "../framerusercontent.com/assets/r7Hr5Cuwp5D2S0yAeKb2ID4jC8M.png",
-                          "../framerusercontent.com/assets/7HpTyGIA6qVFLSrSCsgX5KvUN7Y.png",
-                          "../framerusercontent.com/assets/TqylCx4h8UurkqQwGD03UewCH8.png",
-                          "../framerusercontent.com/assets/C9ur6rFxEwm8aFDt0RHV7RSl0vY.png",
-                          "../framerusercontent.com/assets/ADZO9l2VJTRmduiPKKmsuIjdEU.png",
-                          "../framerusercontent.com/assets/kD7O7X06deGGNbEsZ6SuF4Vn44.png",
-                          "../framerusercontent.com/assets/279LA0eSR39hT9zjuUi7oYdT4.png",
-                          "../framerusercontent.com/assets/fpxnEmHINPgy2gtgqHFATKXxY.png",
-                          "../framerusercontent.com/assets/EAXCS963yvuGgSyUSlf0LV0qzvQ.png",
-                          "../framerusercontent.com/assets/yAsWlowXN8CORhLynobH0IQr0o.png",
-                          "../framerusercontent.com/assets/gvsqHOxbhQQCryvYQrn00iXG0.png",
-                          "../framerusercontent.com/assets/sbROf3peQu4LqO9OYFS8zmBbw8.png",
-                          "../framerusercontent.com/assets/7XB4vuyuNVhxqCYh3gqEd9Vp9s.png",
-                          "../framerusercontent.com/assets/PnWh0cbnNGzLtYfsCdJDCVQac.png",
-                          "../framerusercontent.com/assets/LxhF47gu68I5qdaminvB91XIgg.png",
-                          "../framerusercontent.com/assets/CIFEijlwLOaGodKpoLUJEfacpA.png",
-                          "../framerusercontent.com/assets/0LFIzccxTqrwkMfoiUx9I4ubRwM.png",
-                          "../framerusercontent.com/assets/qxef9e9cm0OW3TDEN8dfCFIbOa8.png",
-                          "../framerusercontent.com/assets/lIpBaiChpn005zLeqIzB0ZRcFM.png",
+                          "./framerusercontent.com/assets/FF7F2BOlUMJ1CIA5s8fAfUg3Igg.png",
+                          "./framerusercontent.com/assets/DW0CFaEmhf1i8Dd6mWDbKknmec.png",
+                          "./framerusercontent.com/assets/GgBpw3GjRfnz9NRiheKjkatZ8.png",
+                          "./framerusercontent.com/assets/fPokciFKebngpVtpj8qqq4xKPg.png",
+                          "./framerusercontent.com/assets/FTvxbfsvcHSu2g40m42oMctpo2M.png",
+                          "./framerusercontent.com/assets/r7Hr5Cuwp5D2S0yAeKb2ID4jC8M.png",
+                          "./framerusercontent.com/assets/7HpTyGIA6qVFLSrSCsgX5KvUN7Y.png",
+                          "./framerusercontent.com/assets/TqylCx4h8UurkqQwGD03UewCH8.png",
+                          "./framerusercontent.com/assets/C9ur6rFxEwm8aFDt0RHV7RSl0vY.png",
+                          "./framerusercontent.com/assets/ADZO9l2VJTRmduiPKKmsuIjdEU.png",
+                          "./framerusercontent.com/assets/kD7O7X06deGGNbEsZ6SuF4Vn44.png",
+                          "./framerusercontent.com/assets/279LA0eSR39hT9zjuUi7oYdT4.png",
+                          "./framerusercontent.com/assets/fpxnEmHINPgy2gtgqHFATKXxY.png",
+                          "./framerusercontent.com/assets/EAXCS963yvuGgSyUSlf0LV0qzvQ.png",
+                          "./framerusercontent.com/assets/yAsWlowXN8CORhLynobH0IQr0o.png",
+                          "./framerusercontent.com/assets/gvsqHOxbhQQCryvYQrn00iXG0.png",
+                          "./framerusercontent.com/assets/sbROf3peQu4LqO9OYFS8zmBbw8.png",
+                          "./framerusercontent.com/assets/7XB4vuyuNVhxqCYh3gqEd9Vp9s.png",
+                          "./framerusercontent.com/assets/PnWh0cbnNGzLtYfsCdJDCVQac.png",
+                          "./framerusercontent.com/assets/LxhF47gu68I5qdaminvB91XIgg.png",
+                          "./framerusercontent.com/assets/CIFEijlwLOaGodKpoLUJEfacpA.png",
+                          "./framerusercontent.com/assets/0LFIzccxTqrwkMfoiUx9I4ubRwM.png",
+                          "./framerusercontent.com/assets/qxef9e9cm0OW3TDEN8dfCFIbOa8.png",
+                          "./framerusercontent.com/assets/lIpBaiChpn005zLeqIzB0ZRcFM.png",
                         ],
                         assetsLabel: "Assets",
                         canvasBg: "rgb(125, 125, 125)",
@@ -659,9 +659,9 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                             pixelHeight: 648,
                             pixelWidth: 774,
                             sizes: "33px",
-                            src: "../framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?width=774&height=648",
+                            src: "./framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?width=774&height=648",
                             srcSet:
-                              "../framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?scale-down-to=512&width=774&height=648 512w,../framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?width=774&height=648 774w",
+                              "./framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?scale-down-to=512&width=774&height=648 512w,./framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?width=774&height=648 774w",
                           },
                           className: "framer-1nm6j7b",
                           "data-framer-name": "Cashew-Main-1L",
@@ -1031,9 +1031,9 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                                   pixelHeight: 648,
                                   pixelWidth: 774,
                                   sizes: "37px",
-                                  src: "../framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?width=774&height=648",
+                                  src: "./framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?width=774&height=648",
                                   srcSet:
-                                    "../framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?scale-down-to=512&width=774&height=648 512w,../framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?width=774&height=648 774w",
+                                    "./framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?scale-down-to=512&width=774&height=648 512w,./framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?width=774&height=648 774w",
                                 },
                               },
                             },
@@ -1056,9 +1056,9 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                                 pixelHeight: 648,
                                 pixelWidth: 774,
                                 sizes: "37px",
-                                src: "../framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?width=774&height=648",
+                                src: "./framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?width=774&height=648",
                                 srcSet:
-                                  "../framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?scale-down-to=512&width=774&height=648 512w,../framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?width=774&height=648 774w",
+                                  "./framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?scale-down-to=512&width=774&height=648 512w,./framerusercontent.com/images/PnWh0cbnNGzLtYfsCdJDCVQac.png?width=774&height=648 774w",
                               },
                               className: "framer-1ivx4vy",
                               "data-framer-name": "Cashew-Main-1L",

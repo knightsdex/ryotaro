@@ -3,10 +3,10 @@ export default function metadata(params, activeLocale) {
   return {
     description: "THE CHIBI INU",
     favicon:
-      "../framerusercontent.com/assets/xcbESmZwpluQok1gQdLxU3ytx54.png",
+      "./framerusercontent.com/assets/xcbESmZwpluQok1gQdLxU3ytx54.png",
     robots: "max-image-preview:large",
     socialImage:
-      "../framerusercontent.com/assets/1svKQkvbhaVSDk9CwNNJWUL7T8.png",
+      "./framerusercontent.com/assets/1svKQkvbhaVSDk9CwNNJWUL7T8.png",
     title: "RYOTARO",
   };
 }

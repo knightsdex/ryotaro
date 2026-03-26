@@ -19,7 +19,7 @@ export default function metadata(params, activeLocale) {
     robots: "noindex",
     serializationId: "framer-URP33",
     socialImage:
-      "../framerusercontent.com/assets/1svKQkvbhaVSDk9CwNNJWUL7T8.png",
+      "./framerusercontent.com/assets/1svKQkvbhaVSDk9CwNNJWUL7T8.png",
     title: "RYOTARO",
     viewport: "width=device-width",
   };

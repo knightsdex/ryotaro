@@ -338,9 +338,9 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                   intrinsicWidth: 468,
                   pixelHeight: 2048,
                   pixelWidth: 936,
-                  src: "../framerusercontent.com/images/ecBO3Jkig1vFxVhToi4xX4b3hqI.png?width=936&height=2048",
+                  src: "./framerusercontent.com/images/ecBO3Jkig1vFxVhToi4xX4b3hqI.png?width=936&height=2048",
                   srcSet:
-                    "../framerusercontent.com/images/ecBO3Jkig1vFxVhToi4xX4b3hqI.png?width=936&height=2048 936w",
+                    "./framerusercontent.com/images/ecBO3Jkig1vFxVhToi4xX4b3hqI.png?width=936&height=2048 936w",
                 },
                 className: "framer-h9zabn",
                 "data-framer-appear-id": "h9zabn",
@@ -366,9 +366,9 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                         pixelHeight: 2048,
                         pixelWidth: 936,
                         sizes: "295px",
-                        src: "../framerusercontent.com/images/ecBO3Jkig1vFxVhToi4xX4b3hqI.png?width=936&height=2048",
+                        src: "./framerusercontent.com/images/ecBO3Jkig1vFxVhToi4xX4b3hqI.png?width=936&height=2048",
                         srcSet:
-                          "../framerusercontent.com/images/ecBO3Jkig1vFxVhToi4xX4b3hqI.png?width=936&height=2048 936w",
+                          "./framerusercontent.com/images/ecBO3Jkig1vFxVhToi4xX4b3hqI.png?width=936&height=2048 936w",
                       },
                     },
                   },
